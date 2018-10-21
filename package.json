@@ -1,0 +1,25 @@
+{
+    "name": "Nasa-practice",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.16.4",
+        "firebase-admin": "^6.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node browser-test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/icodeyouso/Nasa-practice.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/icodeyouso/Nasa-practice/issues"
+    },
+    "homepage": "https://github.com/icodeyouso/Nasa-practice#readme"
+}
